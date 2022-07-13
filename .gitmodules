@@ -1,6 +1,6 @@
-[submodule "HIS-Documents"]
-	path = HIS-Documents
-	url = https://github.com/Jettapon/HIS-Documents.git
+[submodule "HIS-Document"]
+	path = HIS-Document
+	url = https://github.com/Jettapon/HIS-Document.git
 [submodule "HIS-Dotnet"]
 	path = HIS-Dotnet
 	url = https://github.com/Jettapon/HIS-Dotnet.git
